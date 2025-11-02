@@ -1,1 +1,1 @@
-API_URL = "https://myapi-2f5b.onrender.com/fbvideo/search"
+API_URL = "https://facebookdownloader.onrender.com/search"
